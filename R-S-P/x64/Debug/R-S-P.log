@@ -1,0 +1,25 @@
+﻿  calcullator.cpp
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(4,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+  (компиляция исходного файла "calcullator.cpp")
+  
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(4,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "calcullator.cpp")
+  
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(4,65): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "calcullator.cpp")
+  
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(5,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+  (компиляция исходного файла "calcullator.cpp")
+  
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(5,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "calcullator.cpp")
+  
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(6,20): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "calcullator.cpp")
+  
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(7,9): error C2059: синтаксическая ошибка: return
+  (компиляция исходного файла "calcullator.cpp")
+  
+C:\Users\Admin\source\repos\R-S-P\calcullator.h(7,17): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "calcullator.cpp")
+  
